@@ -6,7 +6,7 @@ Youtube Demo Link: https://youtu.be/viGqDq9xfj0
 
 
 
-This application using Spring Boot, Hibernate, JPA, JDBC, MySQL, Thymeleaf, Bootstrap, Javascript, HTML and CSS. 
+This application uses Spring Boot, Hibernate, JPA, JDBC, MySQL, Thymeleaf, Bootstrap, Javascript, HTML and CSS. 
 
 
 
