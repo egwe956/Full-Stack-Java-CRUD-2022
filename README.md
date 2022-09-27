@@ -17,7 +17,7 @@ Admin - can perform all CRUD features
 User - can only create, read, update - but not delete
 
 
-Application has also went through i18n, it is switchable between English (Generic En) and Chinese (ZH) in UTF-8. 
+Application has also went through i18n, it is switchable between English (Generic En) and Chinese (ZH). 
 
 
 Database Schema Details
