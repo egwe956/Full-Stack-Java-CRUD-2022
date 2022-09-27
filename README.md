@@ -5,8 +5,6 @@ Youtube Demo Link: https://youtu.be/viGqDq9xfj0
 
 
 
-This application was built over 2 days (25 hours), many apologies if indentation and formatting is not good. 
-
 
 using Spring Boot, Hibernate, JPA, JDBC, MySQL, Thymeleaf, Bootstrap, Javascript, HTML and CSS. 
 
